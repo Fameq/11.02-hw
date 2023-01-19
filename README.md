@@ -15,7 +15,7 @@
 Установите и запустите memcached.
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
-![memcached](https://github.com/Fameq/11.02-hw/blob/main/img/task2.png)
+![memcached](https://github.com/Fameq/11.02-hw/blob/master/img/task2.png)
 
 ---
 
@@ -24,7 +24,7 @@
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
-![memcached](https://github.com/Fameq/11.02-hw/blob/main/img/task2.png)
+![memcached](https://github.com/Fameq/11.02-hw/blob/master/img/task3.png)
 
 ---
 
@@ -33,7 +33,7 @@
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
-![Redis](https://github.com/Fameq/11.02-hw/blob/main/img/task2.png)
+![Redis](https://github.com/Fameq/11.02-hw/blob/master/img/task4.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
